@@ -1,5 +1,10 @@
 # awesome-typescript-functional-programming
 
+## Libraries
+
+* [effect-ts](https://github.com/Effect-TS/core) -  A Fully-fledged functional effect system for typescript with a rich standard library 
+* [fp-ts](https://github.com/gcanti/fp-ts) -  Functional programming in TypeScript 
+
 ## Dependent types
 
 * [Dependent Types in Typescript](https://www.javiercasas.com/articles/typescript-dependent-types) by [Javier Casas](https://github.com/javcasas)
