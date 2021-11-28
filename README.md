@@ -18,6 +18,7 @@ Roughly said, dependent types are types which depend on values.
 
 A combination of 3 monads which provide Dependency injection, Safe error management when handling synchronous or asynchronous computations.
 
+* [ The Effect Data Types: Effect ](https://dev.to/matechs/the-effect-data-types-effect-1e3f) by [Michael Arnaldi](https://dev.to/mikearnaldi)
 * [TypeScript + fp-ts: ReaderTaskEither Foundations](https://andywhite.xyz/posts/2021-01-27-rte-foundations/) by [Andy White](https://andywhite.xyz/)
 * [TypeScript + fp-ts: ReaderTaskEither and React](https://andywhite.xyz/posts/2021-01-28-rte-react/) by [Andy White](https://andywhite.xyz/)
 
